@@ -163,3 +163,9 @@ container, point it at the service name instead of `localhost`:
 ```bash
 FEAST_BASE_URL=http://feast:6566
 ```
+
+## ONNX file location
+
+Download the ONNX binary file from this location for testing
+
+https://drive.google.com/file/d/1RP3W_V6Ouj9w6JZpyjdHE4lMLhS_OpGi/view?usp=drive_link
